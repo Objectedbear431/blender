@@ -111,5 +111,3 @@ void register_node_type_sh_volume_principled();
 void register_node_type_sh_volume_scatter();
 void register_node_type_sh_wavelength();
 void register_node_type_sh_wireframe();
-
-//another push for ya!
