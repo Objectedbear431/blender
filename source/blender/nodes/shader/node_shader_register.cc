@@ -112,4 +112,6 @@ void register_shader_nodes()
   register_node_type_sh_volume_scatter();
   register_node_type_sh_wavelength();
   register_node_type_sh_wireframe();
+  // adding green node below
+  register_node_type_sh_custom_green();
 }
